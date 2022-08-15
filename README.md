@@ -1,1 +1,4 @@
-A simple raycaster game engine.
+This repo contains source code example of graphics programming using OpenGL.
+
+
+
